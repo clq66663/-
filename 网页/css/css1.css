@@ -1,0 +1,188 @@
+.da{
+    width: 100%;
+    margin: 0 auto;
+}
+#head{
+    width: 100%;
+    height: 120px;
+    background-color: darkmagenta;
+    margin:0;border:0;
+    padding:50px 0px;
+    text-align: center;
+    font-size:4em;
+    font-family: "Sitka Text";
+    color: yellow;
+}
+#conter{
+    width:100%;
+    height: 300px;
+    margin:0;border:0;padding:0;
+    background-color: #ffd927;
+}
+#nav {
+    width: 100%;
+    height: 50px;
+    background-color: darkmagenta;
+    margin:0;border:0;padding:0;
+    font-size: 0;
+    position: sticky;
+    top:0;
+}
+#footer{
+    width: 100%;
+    height: 80px;
+    margin:0;border:0;padding:0;
+    background: #ffd927;
+    text-align: center;
+}
+#left {
+    width: 33.3%;
+    height: 300px;
+    float: left;
+    margin:0;border:0;padding:0;
+}
+#center{
+    width: 33.3%;
+    height: 300px;
+    float: left;
+    margin:0;border:0;padding:0;
+}
+#right{
+    width: 33.3%;
+    height: 300px;
+    float: left;
+    margin:0;border:0;padding:0;
+}
+.biaoti{
+    font-size: 2em;
+    font-family: 华文行楷;
+    color: darkmagenta;
+    text-align: center;
+}
+ul li{
+    float: left;
+}
+a{
+    color:gold;
+    line-height: 50px;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 0px 94px;
+    display:inline-block;//
+}
+.tupian1{
+    width: 100%;
+}
+.tupian2{
+    width: 248px;
+    height: 200px;
+    float: left;
+    background-color: darkmagenta;
+    margin: 1px;
+}
+.tupian2 img{
+    width: 248px;
+    height: 200px;
+}
+.tupian3{
+    width: 100%;
+}
+li a:hover{
+    color: purple;
+    background-color: #ffd927;
+}
+.yulu{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bolder;
+    background-color: #fff3b2;
+}
+.jiewei{
+    width: 100%;
+    height: 1100px;
+    text-align: center;
+    background-color: #fff3b2;
+}
+.jiewei1{
+    width: 100%;
+    height: 750px;
+    text-align: center;
+    background-color: #fff3b2;
+}
+.zhuce{
+    width:1520px;
+    height: 1000px;
+    line-height:50px;
+    text-align:center;
+    clear: both;
+}
+.zhuce:before{
+    background: url("../科比/43.jpg")no-repeat;
+    background-size: cover;
+    width: 1520px;
+    height: 1000px;
+    content:"";
+    position: absolute;
+    top:0;
+    left: 0;
+    z-index:-1;
+    -webdit-filter:blur(3px);
+    filter:blur(3px);
+}
+.zhuce1{
+    width: 500px;
+    height: 500px;
+    background: rgba(0,0,0,.1);
+    margin:0 auto;
+}
+.zhuce2{
+    width:400px;
+    height: 400px;
+    margin:0 auto;
+    color:white;
+}
+.zhuce3{
+    width: 1520px;
+    height: 200px;
+    font-size: 40px;
+    color:white;
+}
+.denlu{
+    width:300px;
+    height: 300px;
+    margin:0 auto;
+    color:white;
+}
+.denlu span{
+    font-size: 40px;
+}
+#wangjimima{
+    position:absolute;
+}
+#wangjimima a{
+    color: #fefff9;
+    line-height: 52px;
+}
+.haha{
+    font-size: 30px;
+}
+.zuihou{
+    text-align: center;
+}
+.hehe{
+    width: 1520px;
+    height: 200px;
+}
+.kk{
+    width: 1520px;
+    height:700px;
+    text-align: left;
+}
+.kk1{
+    width: 500px;
+    height: 100px;
+    border: 4px solid #ffbeef;
+    font-weight: normal;
+
+}
